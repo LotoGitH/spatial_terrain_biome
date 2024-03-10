@@ -24,9 +24,9 @@ MonoBehaviour:
   - 0
   - 0
   - 0
-  - 205
-  - 1024
-  - 1024
+  - 0
+  - 0
+  - 0
   - 0
   - 0
   - 0
@@ -54,18 +54,15 @@ MonoBehaviour:
   - 
   - Water
   - UI
-  - 
-  - 
-  - PW_VFX
-  - PW_Object_Small
-  - PW_Object_Medium
-  - PW_Object_Large
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - CustomLayer1
+  - CustomLayer2
+  - CustomLayer3
+  - CustomLayer4
+  - CustomLayer5
+  - CustomLayer6
+  - CustomLayer7
+  - CustomLayer8
+  - Vehicles
   - 
   - 
   - 
@@ -80,6 +77,9 @@ MonoBehaviour:
   - 
   - 
   - 
+  - AvatarRemote
+  - AvatarLocal
+  - Environment
   m_shadowLayerDistances:
   - 0
   - 0
@@ -90,9 +90,9 @@ MonoBehaviour:
   - 0
   - 0
   - 0
-  - 102
-  - 512
-  - 512
+  - 0
+  - 0
+  - 0
   - 0
   - 0
   - 0
