@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_Spatial_Island
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: 65ed5f928171af607519fbb7
   packageName: Spatial Terrain
   thumbnail: {fileID: 2800000, guid: 977b8fa8f57fcc541a40fee17cab25a3, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: ga54gihu5qf24il98ggga
   scene: {fileID: 102900000, guid: 08d99183bacca024b92c3d3777619bcc, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
